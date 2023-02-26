@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Applications/Desktop/Assistant/Assistant GPT.xcodeproj">
    </FileRef>
 </Workspace>
